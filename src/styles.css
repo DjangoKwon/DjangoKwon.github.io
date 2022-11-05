@@ -1,0 +1,64 @@
+.hidden {
+  display: none;
+}
+
+.loginform {
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 100px;
+}
+
+.greeting {
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 22px;
+  color: white;
+}
+
+.quote {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.todo {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+
+.todo-list {
+  border-left: 6px solid white;
+  position: absolute;
+  top: 12%;
+  left: 10%;
+  font-size: 20px;
+  color: white;
+}
+
+input {
+  font-size: 20px;
+}
+
+.weather {
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  color: white;
+}
